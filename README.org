@@ -1,0 +1,40 @@
+* Clima Monitor
+
+/Main project repository/
+
+Climate change impact monitoring tool:
+- Monitor raising sea levels, melting snow caps, natural disasters, temperature change, etc.
+- Use data from satellites, combine with ground measurements
+- Put events into context of historical data, CO2 production, etc.
+- Visualize data in graphs, animations, etc.
+- Predict future progression
+
+Challenges Faced by Global weather data users
+** Difficulty in accessing accurate and real-time weather data
+** Lack of comprehensive tools for analyzing weather patterns
+** Limited insights from ground measurements and satellite data
+
+Introducing Clima Monitor
+** A robust tool for weather monitoring and analysis
+** Integrates ground measurements and satellite data
+** Provides detailed insights and visualizations
+
+Key Features
+** Real-Time Data Access
+Live updates from multiple weather stations
+** Comprehensive Analysis
+Advanced algorithms for pattern recognition
+** User-Friendly Interface
+Intuitive dashboards and customizable reports
+** Integration Capabilities
+Compatible with various data sources and formats
+
+Users
+** Primary Users
+    - Journalists
+    - Researchers
+    - Environmentalists
+    - Weather Enthusiasts
+** Secondary Users
+    - Government Agencies
+    - Educational Institutions
